@@ -1,2 +1,2 @@
-var name='rishik'
+var name='rishi'
 console.log(nameb)

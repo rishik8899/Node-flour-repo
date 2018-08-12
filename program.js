@@ -1,2 +1,2 @@
-var name='rishik'
-console.log(name)
+var name='rishika'
+console.log(nameb)

@@ -1,2 +1,2 @@
-var nae='rishi'
-console.log(nameb)
+var name='rishi'
+avxconsole.log(nameb)
